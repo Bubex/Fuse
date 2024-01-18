@@ -1,9 +1,9 @@
 {
-  "name": "fuse.js",
+  "name": "x6tech-fuse.js",
   "author": {
-    "name": "Kiro Risk",
-    "email": "kirollos@gmail.com",
-    "url": "http://kiro.me"
+    "name": "Marlon Maccedo",
+    "email": "contato@x6tech.com.br",
+    "url": "https://x6tech.com.br"
   },
   "type": "module",
   "main": "./dist/fuse.cjs",
@@ -37,12 +37,12 @@
   "files": [
     "dist"
   ],
-  "version": "7.0.0",
+  "version": "7.0.1",
   "description": "Lightweight fuzzy-search",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/krisk/Fuse.git"
+    "url": "https://github.com/bubex/Fuse.git"
   },
   "homepage": "http://fusejs.io",
   "keywords": [
