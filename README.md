@@ -1,61 +1,44 @@
-# Fuse.js
+<p align="center">
+  <img src="https://x6tech.com.br/wp-content/uploads/2023/09/logo-white-vectorized.png" alt="x6tech Logo" width="70"/>
+</p>
 
-![Node.js CI](https://github.com/krisk/Fuse/workflows/Node.js%20CI/badge.svg)
-[![Version](https://img.shields.io/npm/v/fuse.js.svg)](https://www.npmjs.com/package/fuse.js)
-[![Downloads](https://img.shields.io/npm/dm/fuse.js.svg)](https://npmcharts.com/compare/fuse.js?minimal=tru)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Contributors](https://img.shields.io/github/contributors/krisk/fuse.svg)](https://github.com/krisk/Fuse/graphs/contributors)
-![License](https://img.shields.io/npm/l/fuse.js.svg)
+<h1 align="center">🚀 x6tech-fuse.js</h1>
 
-## Supporting Fuse.js
+[x6tech-fuse.js](https://github.com/x6tech/fuse.js) is a ✨ fork ✨ of the original [fuse.js](https://github.com/krisk/Fuse) package, a powerful and flexible JavaScript library for fuzzy searching. This fork has been created to address and resolve the TypeScript import error present in the original package.
 
-Through contributions, donations, and sponsorship, you allow Fuse.js to thrive. Also, you will be recognized as a beacon of support to open-source developers.
+## ✨ Features
 
-- [Become a backer or sponsor on **GitHub**.](https://github.com/sponsors/krisk)
-- [Become a backer or sponsor on **Patreon**.](https://patreon.com/fusejs)
-- [One-time donation via **PayPal**.](https://www.paypal.me/kirorisk)
+- **TypeScript Import Fix**: 🛠️ The x6tech-fuse.js package includes a fix for the TypeScript import error, ensuring seamless integration with TypeScript projects.
 
----
+- **Ongoing Maintenance and Feature Updates**: 🚀 This fork is actively maintained and will receive regular updates with new features and improvements.
 
-<h3 align="center">Silver Sponsors</h3>
-<!--Silver start-->
-<table>
-<tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://www.worksome.com" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/krisk/Fuse/7a0d77d85ac90063575613b6a738f418b624357f/docs/.vuepress/public/assets/img/sponsors/worksome.svg">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.bairesdev.com/sponsoring-open-source-projects/" target="_blank">
-          <img width="222px" src="https://github.com/krisk/Fuse/blob/gh-pages/assets/img/sponsors/bairesdev.png?raw=true">
-        </a>
-      </td>
-    </tr>
-</body>
-</table>
-<!--Silver end-->
+## 🙌 Acknowledgments
 
----
+We would like to express our gratitude to the original [fuse.js](https://github.com/krisk/Fuse) package and its author, [Kris Kowal](https://github.com/krisk), for creating such a valuable tool. 
 
-## Introduction
+The x6tech-fuse.js fork builds upon their work and aims to provide a maintained and enhanced version of the library.
 
-Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
+## 📦 Installation
 
-### Browser Compatibility
+To install x6tech-fuse.js, you can use npm:
 
-Fuse.js supports all browsers that are [ES5-compliant](http://kangax.github.io/compat-table/es5/) (IE8 and below are not supported).
+```bash
+npm install x6tech-fuse.js
+```
 
-## Documentation
+Or yarn:
 
-To check out a [live demo](https://fusejs.io/demo.html) and docs, visit [fusejs.io](https://fusejs.io).
+```bash
+yarn add x6tech-fuse.js
+```
 
-## Develop
 
-Here's a separate document for [developers](https://github.com/krisk/Fuse/blob/master/DEVELOPERS.md).
+## 🚀 Usage
 
-## Contribute
+The usage of x6tech-fuse.js remains similar to the original fuse.js package. For detailed documentation and examples, refer to the [official documentation](https://fusejs.io/).
 
-We've set up a separate document for our
-[contribution guidelines](https://github.com/krisk/Fuse/blob/master/CONTRIBUTING.md).
+## 🤝 Contributions
+
+Contributions to x6tech-fuse.js are welcome. If you encounter any issues or have suggestions for improvements, feel free to [open an issue](https://github.com/x6tech/fuse.js/issues) or submit a pull request.
+
+Happy searching! 🔍
