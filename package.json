@@ -1,13 +1,11 @@
 {
-  "name": "x6tech-fuse.js",
-  "author": {
-    "name": "Marlon Maccedo",
-    "email": "contato@x6tech.com.br",
-    "url": "https://x6tech.com.br"
-  },
+  "name": "@x6tech/fuse.js",
   "type": "module",
   "main": "./dist/fuse.cjs",
   "module": "./dist/fuse.mjs",
+  "publishConfig": {
+    "access": "public"
+  },
   "unpkg": "./dist/fuse.js",
   "jsdelivr": "./dist/fuse.js",
   "types": "./dist/fuse.d.ts",
@@ -42,9 +40,9 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bubex/Fuse.git"
+    "url": "https://github.com/x6-tech/fuse.js"
   },
-  "homepage": "http://fusejs.io",
+  "homepage": "https://x6tech.com.br",
   "keywords": [
     "fuzzy",
     "search",
